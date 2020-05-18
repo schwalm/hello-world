@@ -1,1 +1,1 @@
-alias hls "hadool fs -ls"
+alias hls "hadoop fs -ls"
